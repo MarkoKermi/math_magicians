@@ -5,7 +5,6 @@
 
   /* -webkit-user-select: none; */
   -webkit-user-drag: none;
-  -webkit-app-region: none;
 }
 
 body {
@@ -34,7 +33,6 @@ body {
   height: 100%;
   width: 100%;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: (6, 1fr);
   gap: 10px;
 }
 

@@ -1,5 +1,5 @@
 import { render } from '@testing-library/react';
-import Home from '../components/home';
+import Home from '../components/Home';
 import Quote from '../components/quote';
 import Calculator from '../components/Calculator';
 

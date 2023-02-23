@@ -1,6 +1,6 @@
 import { render } from '@testing-library/react';
 import Home from '../components/Home';
-import Quote from '../components/quote';
+import Quote from '../components/Quote';
 import Calculator from '../components/Calculator';
 
 describe('Snapshot Test for Math Magicians project', () => {

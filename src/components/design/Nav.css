@@ -1,0 +1,29 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  padding: 2%;
+  list-style: none;
+}
+
+li {
+  padding: 3%;
+}
+
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.navLi {
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+  justify-content: flex-end;
+}

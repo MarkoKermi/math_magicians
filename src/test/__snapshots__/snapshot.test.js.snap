@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Snapshot Test for Math Magicians project Snapshot needs to be eaqual as component render 1`] = `
+exports[`Snapshot Test for Math Magicians project Snapshot needs to be equal as component render 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
@@ -89,7 +89,7 @@ Object {
 }
 `;
 
-exports[`Snapshot Test for Math Magicians project Snapshot needs to be eaqual as component render 2`] = `
+exports[`Snapshot Test for Math Magicians project Snapshot needs to be equal as component render 2`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
@@ -168,7 +168,7 @@ Object {
 }
 `;
 
-exports[`Snapshot Test for Math Magicians project Snapshot needs to be eaqual as component render 3`] = `
+exports[`Snapshot Test for Math Magicians project Snapshot needs to be equal as component render 3`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>

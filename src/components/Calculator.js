@@ -20,6 +20,7 @@ function Calculator() {
           className="screen"
           type="text"
           value={result.next || result.total || '0'}
+          defaultValue=""
         />
         <button type="button" className="btn light-gray" onClick={handleClick}>
           AC
